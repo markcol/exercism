@@ -1,2 +1,2 @@
 # exercism
-Exercism exercises
+[Exercism](http://exercism.io) exercises.
